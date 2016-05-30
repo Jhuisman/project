@@ -58,4 +58,4 @@ Project over azc en politieke voorkeur per gemeente.
 >
 > ## Schets:
 > 
-> Zie ![](doc/artist_impression.png)
+> Zie ![](Jhuisman/project/doc/artist_impression.png)
