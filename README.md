@@ -17,7 +17,7 @@ Project over azc en politieke voorkeur per gemeente.
 > waarin duidelijk is waar er problemen en protesten tegen een azc zijn geweest, wat daar de politieke voorkeur is en hoe 
 > groot de verandering in die gemeente nou feitelijk is. Daarmee hoop ik een antwoord te kunnen geven op de vraag:
 > Zijn gemeenten waar veel extreem rechts wordt gestemd vooral tegen azc's of is er geen scheen dat die link gemaakt kan 
-> worden? IS het terecht of onterecht dat extreem rechtse politieke partijen aanhalen naar hun achterban of komt een 
+> worden? Is het terecht of onterecht dat extreem rechtse politieke partijen aanhalen naar hun achterban of komt een 
 > dergelijk protest hen alleen goed uit? Met andere woorden, is het een cliche/verwacht verhaal of dient er een andere 
 > conclusie getrokken te worden?
 >
@@ -58,4 +58,7 @@ Project over azc en politieke voorkeur per gemeente.
 >
 > ## Schets:
 > 
-> Zie ![](Jhuisman/project/doc/artist_impression.png)
+> Zie 
+>
+> ![](doc/image.png)
+> ![](doc/artist_impression.png)
