@@ -1,0 +1,18 @@
+30/05/2016:
+
+- Verkennen data wetenschapsfinanciering. Niet of nauwelijks en anders ongestructureerd verkrijgbaar.
+- Overstap naar vluchtelingencrisisdata. Wel mogelijk
+- Gedeeltelijk handmatig scrapen van data.
+- Schrijven voorstel over vluchtelingenopvang en politieke voorkeur en aantal inwoners.
+
+31/05/2016:
+
+- Standup meeting
+- feedback verwerken
+- python omzetfunctie schrijven(csv scrapen)
+- data verkrijgen en structureren(finished)
+- Design verkrijgen
+
+32/05/2016:
+
+-
