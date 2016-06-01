@@ -38,9 +38,12 @@ Project over azc en politieke voorkeur per gemeente.
 > - csv3(optioneel/extra):
 >	+ gemeente, nieuwsberichten, nieuwslink
 > 
-> ## Technische bronnen:
+> ## Technische bronnen/middelen:
 > - https://commons.wikimedia.org/wiki/File%3ANederland_gemeenten_2014.svg
 >	+ code cbs per gemeente voor SVG (cbs="####")
+> 
+> - python -m http.server 8888 &
+> - http://localhost:8888/.
 > 
 > ## File indeling
 > - azc.html
