@@ -13,6 +13,12 @@
 - data verkrijgen en structureren(finished)
 - Design verkrijgen
 
-32/05/2016:
+01/06/2016:
 
--
+- Standup meeting
+- Uittekenen voorstel gedetailleerder
+- Data per bargraph/map structureren.
+- Klaarzetten files, html, css, js etc.
+- Design document
+- SVG inladen
+- SVG id codering in data verwerken(excel extra colum)

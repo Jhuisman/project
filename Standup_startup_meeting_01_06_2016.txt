@@ -33,6 +33,8 @@ Report Daily Standup 01/06/2016
 > - TODO: Design document uitwerken
 >
 > ## Wander:
-> - 
-> - 
-> - 
+> - Data verzamelen van ticketprijzen en taalfamilies
+> - Uitschetsen van de totale visualisatie.
+> - Betere dynamisch afhankelijkheid maken van de visualisaties
+> - TODO: Design document uitwerken
+> - TODO: Data over tijd van toerisme verzamelen
