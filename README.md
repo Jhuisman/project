@@ -53,8 +53,10 @@ Project over azc en politieke voorkeur per gemeente.
 > 
 > - huidige opvang:	Centraal Orgaan Asielzoekers
 > - geplande opvang:	https://localfocus2.appspot.com/5613cc9583d28
-> - politieke voorkeur:	http://www.verkiezingskaart.nl/#
+> - politieke voorkeur:	http://data.weetmeer.nl/gemeente/collection/data/
 > - conflicten:		ANP/Nieuwsberichten
+> - inwoneraantallen:	cbs statline
+> - 
 >
 > ## Schets:
 > 

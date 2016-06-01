@@ -1,0 +1,38 @@
+Report Daily Standup 01/06/2016
+=============================================
+> ## Chriss:
+> - SVG dient te worden aangepast. Momenteel een SVG editor gevonden. Verder technische ondersteuning vragen
+>   want binnen de meeting was hierover niet genoeg kennis. Keep us updated Chriss!
+>   TODO: Doel is om een graph te maken van treinkaart NL.
+> - Datastructuur verstoringen gemeld door NS wijken af(zijn beperkter) van meldingen onafhankelijke org.
+>   TODO: Advies is om te mailen of er een meer bekend is. 
+> - TODO: Design document uitwerken
+> 
+> ## Annabel:
+> - Data vogels is per waarneming. Zeer grote dataset. Advies vergadering was om dataset op te schonen.
+>   Daarnaast discussie over hoe goed de steekproef van de waarnemingen is. Waarnemingen wel gedaan door een instantie
+>   die onderzoek daar naar doet. TODO: Advies wel om te mailen/achterhalen wat de werkwijze van de onderzoekers is geweest
+> - Data wil Annabel het liefst zichtbaar maken per coordinaat, TODO: achterhalen bij technische ondersteuning of dit mogelijk is.
+> - Daarnaast advies gegeven om eerst per land de visualisatie af te krijgen. Mogelijk later nog inzoombaar te maken per land.
+> - TODO: Design document uitwerken
+> 
+> ## Shannon:
+> - Datastructuur heeft de prioriteit. Advies: maak per plaats de data beschikbaar ivm loading data en snelheid. UI gezien leek ons 
+>   het volgende het meest logisch: Dus gemeente>jaartal>naar + van>gemeente>aantallen per gemeente.
+> - Mogelijkheid besproken om een scatterplot te maken van data over de jaren, echter heeft line graph de voorkeur.
+> - TODO: verder schetsen. 
+> - Extra bijkomende en interesting ideas: huizenprijs koppelen aan data. Hypothese, huizenprijs beinvloed het aantal forenzen 'positief'.
+> - TODO: data huizenprijzen, niet van iedere gemeente beschikbaar. 
+> - TODO: Design document uitwerken
+>
+> ## Job: 
+> - Data verzamelen nieuwsberichten. mogelijkheid om dezelfde structuur als google newsfeed van eerdere opdrachte te gebruiken
+>   Echter waarschijnlijk voor Nederland niet mogelijk. TODO: uitzoeken azc protest nieuws.
+> - Uittekenen design TODO!
+> - Data veel interessanter icm inwonertal van gemeenten.
+> - TODO: Design document uitwerken
+>
+> ## Wander:
+> - 
+> - 
+> - 
